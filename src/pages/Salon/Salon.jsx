@@ -174,8 +174,8 @@ const Salon = () => {
         <div>
           <img src={salon.image} className="col-12 rounded-4 w-full h-[380px] object-cover" />
 
-          <div className="px-[100px] leading-[30px] ">
-            <h1 className="font-medium text-[50px] py-[20px] sm:mt-[10px]">{salon.name}</h1>
+          <div className="sm:px-[100px] px-[10px] leading-[30px] ">
+            <h1 className="font-medium sm:text-[50px] text-[30px] py-[20px] sm:mt-[10px]">{salon.name}</h1>
             <div>
               {salon.description.map((ele) => {
                 return <p className="text-[14px] sm:leading-[30px] my-[20px]">{ele}</p>
