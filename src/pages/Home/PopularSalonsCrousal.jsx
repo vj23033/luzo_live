@@ -98,7 +98,7 @@ const PopularSalonsCrousal = () => {
                     </SwiperSlide>
 
                     <SwiperSlide>
-                        <Link to=''>
+                        <Link to='/salon/cocomelon'>
                             <div className='flex flex-col gap-[20px] rounded-xl overflow-hidden'>
                                 <img src='/SalonPhotos/Cocomelon.webp' alt='salon' className='aspect-video transform hover:scale-110 transition  duration-300 ease-in-out' />
                                 <h1 className='text-white text-[30px] font-medium absolute bottom-0 left-0  px-4 py-2'>CocoMelon</h1>
