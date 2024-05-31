@@ -151,6 +151,15 @@ const Salon = () => {
       branches: ["Roopnagari Society, Kothrud, Pune", "Vision Galleria, Pimple Saudagar, Pune", "Acropolis, Aundh, Pune", "Power Point, Koregaon Park, Pune"]
 
     },
+    {
+      id: 16,
+      name: "CocoMelon",
+      route: "cocomelon",
+      image: "/SalonPhotos/Cocomelon.webp",
+      description:['Book a time at Cocomelon Salon & Spa for manicures, pedicures, massage, facials, hair botox, haircuts, hair color, skin treatments and IV Vita drips.','The best of Glutathione drips are available at Cocomelon. Hidden away in the heart of Mumbai lies the entrance to another world. A place where time seems to stand still and every moment is devoted to serenity.','The moment you step through the door, let all your senses unwind. Guided by their experienced team of therapists, reconnect your mind, body and spirit.'],
+      branches: ["Woodrow Commercial Premises, Andheri (West), Mumbai", "Vision Galleria, Pimple Saudagar, Pune", "Acropolis, Aundh, Pune", "Power Point, Koregaon Park, Pune"]
+
+    },
    
 
   ]
